@@ -1,0 +1,16 @@
+.Julie{
+    height: 250px;
+    width: 250px;
+    border-radius: 12px;
+    background-color: rgb(218, 194, 241);
+    padding: 22px 11px;
+    border: 6px dotted rebeccapurple;
+    margin: 15px 10px;
+}
+
+.main{
+   height: 640px;
+   width: 640px;
+   border-radius: 12px;
+   border: 5px dotted rgb(125, 89, 255); 
+}
