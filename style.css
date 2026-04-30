@@ -1,4 +1,4 @@
-.Julie{
+.Julie {
     height: 200px;
     width: 200px;
     border-radius: 12px;
@@ -6,20 +6,20 @@
     padding: 22px 11px;
     border: 6px dotted rebeccapurple;
     margin: auto;
-    
+
 }
 
-.main{
-   height: 640px;
-   width: 640px;
-   border-radius: 12px;
-   border: 4px;
-   background-color: rgb(218, 213, 235);
-   margin: auto;
-   
+.main {
+    height: 640px;
+    width: 640px;
+    border-radius: 12px;
+    border: 4px;
+    background-color: rgb(218, 213, 235);
+    margin: auto;
+
 }
 
-.lana{
+.lana {
     border-radius: 10px;
     border: 5px solid rgb(101, 78, 139);
     width: 248px;
@@ -27,13 +27,13 @@
     margin: auto;
 }
 
-.cards{
+.cards {
     display: flex;
     margin: 40px auto;
     padding: 6px;
 }
 
-.card{
+.card {
     height: 300px;
     width: 300px;
     border-radius: 12px;
@@ -42,7 +42,7 @@
     border: 6px dotted rgb(38, 184, 135);
 }
 
-.card{
+.card {
     height: 300px;
     width: 300px;
     border-radius: 12px;
@@ -52,7 +52,7 @@
 }
 
 
-.card{
+.card {
     height: 350x;
     width: 350px;
     border-radius: 12px;
@@ -60,25 +60,26 @@
     margin: auto;
     border: 6px dotted rgb(92, 0, 179);
     padding: 6px;
-    
+
 }
 
-.section-cards{
+.section-cards {
     width: 80%;
     background-color: rgb(143, 95, 255);
     display: flex;
-    flex-wrap:wrap;
+    flex-wrap: wrap;
     margin: 20px auto;
     justify-content: space-around;
 }
-header{
+
+header {
     width: 100%;
-padding: 40px;
-text-align: center;
+    padding: 40px;
+    text-align: center;
 }
 
-.card{
-    width: 60%;
+.card {
+    width: 20%;
     height: 33vh;
     background-color: black;
     color: white;
@@ -86,7 +87,8 @@ text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    text-align: center;
+
 }
-
-
+.card img{
+  
+}
